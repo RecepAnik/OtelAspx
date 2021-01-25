@@ -12,7 +12,7 @@
 
 
     <link rel="stylesheet" type="text/css" media="all" href="calendar/jsDatePick_ltr.min.css" />
-<script type="text/javascript" src="calendar/jquery.1.4.2.js"></script>
+<script type="text/javascript" src="calendar/jquery.1.4.2.js"></script>   
 <script type="text/javascript" src="calendar/jsDatePick.jquery.min.1.3.js"></script>
 <script type="text/javascript">
     window.onload = function () {
