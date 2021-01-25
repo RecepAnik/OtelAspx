@@ -1,0 +1,73 @@
+﻿body {font-family: Arial, Helvetica, sans-serif;
+
+}
+#menu
+{
+    
+    height: 66px;
+    width: 893px;
+    background-image: url('234.png');
+}
+.link2
+{
+    float: left;
+    width: 100px;
+    height: 40px;
+
+}
+a.link01:link
+{
+    color: white;
+cursor: pointer;
+float: left;
+font-size: 12px;
+font-weight: bold;
+line-height: 14px;
+text-decoration :none;
+
+max-width: 50px;
+    height: 18px;
+}
+a.link01:active
+{
+    color: white;
+text-decoration :none;
+float: left;
+font-size: 12px;
+font-weight: bold;
+line-height: 14px;
+
+max-width: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a.link01:visited 
+{
+    color: white;
+cursor: pointer;
+float: left;
+font-size: 12px;
+font-weight: bold;
+line-height: 14px;
+text-decoration :none;
+max-width: 50px;
+    
+}
+a.link01:hover 
+{
+    color:black;
+ text-decoration :none;
+cursor: pointer;
+float: left;
+font-size: 12px;
+font-weight: bold;
+line-height: 14px;
+
+max-width: 50px;
+}
+#tab
+{
+    margin-top :11px;
+   
+   
+  
+}

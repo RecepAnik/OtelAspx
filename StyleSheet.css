@@ -1,0 +1,331 @@
+﻿
+body
+{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url('images/bg.jpg');
+    background-repeat: repeat-x;
+    height:auto;
+    
+}
+
+#anasayfa
+{
+   
+    width: 879px;
+    margin-left:auto;
+   margin-right :auto;
+    font-size: medium;
+    height: auto;
+    
+}
+
+
+   
+#menu
+{
+  
+    float :left ;
+    
+   
+}
+
+#ust
+{
+    width: 100%;
+    height :158px;
+     float :left ;
+}
+#logo
+{
+    float: left;
+    width: 139px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+}
+#giris
+{
+    float: right;
+    background-image: url('images/rere.png');
+    width:632px;
+    height :77px;
+
+}
+#TextBox1
+{
+    margin-left:280px;
+   
+    width: 111px;
+}
+#TextBox2
+{
+    margin-left :5px;
+    width: 111px;
+}
+#Button1
+{
+    margin-left :10px;
+    }
+#ust1
+{
+    height :20px;
+     width: 888px;
+    background-color :#319fc2 ;
+        margin-left:auto;
+   margin-right :auto;
+   margin-top:-2px;
+   text-align :right ;
+   
+    
+}
+
+
+#orta
+{
+    height :auto;
+   
+    
+   
+  
+}
+
+#kayakot
+{
+    background-image: url('images/sahil_bg.png');
+    background-repeat: no-repeat;
+    height :46px;
+    margin-left: 4px;
+    margin-top: 21px;
+    width:878px;
+}
+.a1
+{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1;
+    margin: 14px 0 0 63px;
+    float: left;
+font-size: 16px;
+font-weight: bold;
+    height: 16px;
+}
+.a8
+{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1;
+    margin-top:-10px;
+    float: left;
+font-size: 18px;
+font-weight: bold;
+    height: 20px;
+    width: 240px;
+    margin-left: 350px;
+
+}
+.egeot
+{
+    background-image: url('images/sahil_bg.png');
+    background-repeat: no-repeat;
+    height :46px;
+    margin-left: 4px;
+    width: 878px;
+    margin-top: 0px;
+}
+#akot
+{
+    background-image: url('images/sahil_bg.png');
+    background-repeat: no-repeat;
+    height :46px;
+    margin-left: 4px;
+    width: 888px;
+}
+#alt
+{
+
+    background-image: url('images/footer.jpg');
+    background-repeat: no-repeat;
+    height:277px;
+   
+    width: 914px;
+    margin-top:0px;
+    margin-bottom: 0px;
+}
+
+
+#altmenu
+{
+    margin-top :53px;
+    margin-left :30px;
+float :left;
+    width: 631px;
+}
+#alt2
+{
+    float :left ;
+    margin-left :70px;
+    font-family: Arial, Helvetica, sans-serif;
+line-height: 20px;
+color: black;
+font-size: 11px;
+    width: 600px;
+}
+#alt3
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: 0px;
+    float :left;
+margin-left :0px;
+    width: 63px;
+}
+#alt4
+{
+
+  margin-left :377px;
+ float :left ;
+font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+font-weight: bold;
+color: #193E47;
+  margin-top :60px;
+    
+}
+  .style2
+        {
+            height: 149px;
+            width: 155px;
+            border:0px;
+            
+        }
+        .style3
+        {
+            font-size: small;
+        }
+        .style4
+        {
+            font-size: 9pt;
+            color: #FFFFFF;
+        }
+        .style5
+        {
+            color: #FFFFFF;
+        }
+        .style7
+        {
+            text-decoration: none;
+            color: #FFFFFF;
+        }
+    
+       
+        #haber
+        {
+            height: 215px;
+            width: 475px;
+        }
+    
+       
+      
+        .style9
+        {
+            height: 133px;
+        }
+    
+       
+        .style10
+        {
+            font-family: Arial, Helvetica, sans-serif, Geneva, sans-serif;
+            font-size: small;
+            font-weight: 700;
+            height: 42px;
+        }
+        .style11
+        {
+            font-size: 10pt;
+            margin-top :-10px;
+        }
+        .style13
+        {
+            font-weight: normal;
+        }
+    
+       
+        .style14
+        {
+            color: #FFFFFF;
+            font-size: 10pt;
+        }
+    
+       
+        .style15
+        {
+            font-size: 8pt;
+            color: #FFFFFF;
+        }
+    
+       
+        .style16
+        {
+            height: 115px;
+        }
+    
+       
+        .style17
+        {
+            height: 273px;
+        }
+    .indd
+        {
+            height: 325px;
+        }
+       
+        .style18
+        {
+            width: 174px;
+        }
+    
+       
+        .style19
+        {
+            color: #FFFFFF;
+            font-size: 10pt;
+        }
+        .style20
+        {
+            height: 112px;
+            width: 121px;
+        }
+    
+       
+        .style21
+        {
+            font-size: 7pt;
+            color: #FFFFFF;
+            font-weight: normal;
+        }
+    
+       
+        .style8
+        {
+            width: 888px;
+  
+}
+        
+        .hotbas
+        {
+    background-image: url('images/hotbaslık.png');
+    background-repeat: no-repeat;
+    height :46px;
+    margin-left: 4px;
+    width: 878px;
+}
+#recep
+{
+    float: right;
+    width: 346px;
+    height: 274px;
+    background-image: url('Untitled-1.jpg');
+    background-repeat: no-repeat;
+    margin-top:-250px;
+}
